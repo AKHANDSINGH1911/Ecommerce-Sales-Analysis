@@ -33,9 +33,9 @@ This project analyzes e-commerce sales data using MySQL and Python to identify s
 Generated automated Excel report using Python.
 
 ## Product Sales Chart
-![Product Sales](images/Product_sales_chart.png)
+![Product Sales](images/product_sales_chart.png)
 
-## Monthlt Sales Chart
+## Monthly Sales Chart
 ![Product Sales](images/monthly_sales_chart.png)
 
 ## Monthly Sales 
@@ -48,7 +48,7 @@ Generated automated Excel report using Python.
 ![Top Customers](images/top_customer.png)
  
  ## Product Sales
- ![Product Sales](images/product_sales.png)
+ ![Product Sales](images/Product_sales.png)
 
 
 
