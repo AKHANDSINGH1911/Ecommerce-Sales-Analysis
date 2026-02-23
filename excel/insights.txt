@@ -1,0 +1,18 @@
+E-Commerce Sales Analysis Insights
+
+1. Total records analyzed: 2823
+
+2. Highest sales product line:
+Classic Cars generate the highest revenue.
+
+3. Top country by sales:
+USA contributes the highest revenue.
+
+4. Sales trend:
+Sales peak during certain months indicating seasonal demand.
+
+5. Top customers:
+Top 10 customers contribute significant portion of total revenue.
+
+Conclusion:
+The company should focus more on high-performing product lines and top countries to maximize revenue.
