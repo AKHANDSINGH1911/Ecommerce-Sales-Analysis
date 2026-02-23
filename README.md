@@ -28,6 +28,19 @@ This project analyzes e-commerce sales data using MySQL and Python to identify s
 - Identified top customers contributing highest revenue
 - Identified top countries driving sales
 
+## Excel Output Report
+
+Generated automated Excel report using Python.
+
+![Excel Output](images/country_sales.png)
+![Excel Output](images/monthly_sales_chart.png)
+![Excel Output](images/monthly_sales.png)
+![Excel Output](images/Product_sales.png)
+![Excel Output](images/Product_sales_chart.png)
+![Excel Output](images/top_customer.png)
+
+
+
 ## Project Workflow
 
 CSV File → MySQL → SQL Queries → Python Analysis → Charts → Excel Report
