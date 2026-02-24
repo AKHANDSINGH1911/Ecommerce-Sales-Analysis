@@ -53,8 +53,8 @@ Generated automated Excel report using Python.
 
 
 ## Project Workflow
-
-CSV File → MySQL → SQL Queries → Python Analysis → Charts → Excel Report
+ 
+![Flowchar](images/Flowchart.png)
 
 ## Files in Project
 
